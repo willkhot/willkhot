@@ -29,10 +29,9 @@ I like figuring out how systems work, making them more secure, and automating th
   <img src="assets/linux.svg" height="38" alt="Linux">
   <img src="assets/git.svg" height="38" alt="Git">
   <img src="assets/python.svg" height="38" alt="Python">
-  <img src="assets/java.svg" height="38" alt="Java">
   <img src="assets/bash.svg" height="38" alt="Bash">
 </p>
 
-**Also worked with:** Active Directory · Microsoft 365 · Defender · Wireshark · VS Code
+##
 
 <img src="assets/build-loop.svg" width="1000" alt="Learn, build, document, repeat.">
