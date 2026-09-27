@@ -14,10 +14,12 @@
 
 I like figuring out how systems work, making them more secure, and automating the repetitive parts. This is where I share what I'm building and learning.
 
-- 🎓 **B.S. Cybersecurity, IT emphasis** · UMSL · **4.0 GPA** · Expected December 2027.
-- 💼 **Former IT Intern, Fabick CAT** · Azure automation, IAM, Windows Server/Exchange, and IT support.
-- ☁️ **AZ-900 certified** · **SC-300 in progress**.
-- 🛠️ Currently exploring **Linux networking, cloud security, and CI/CD**.
+- 🎓 **B.S. Cybersecurity, IT Emphasis** · UMSL · **4.0 GPA** · Expected December 2027
+- 🏆 **Cybersecurity/IT Outstanding Student Award** (Spring 2025) · Dean's List every semester
+- 💼 **IT Intern, Fabick CAT** (Jan–Jul 2026) · Supported Azure VM automation with Bicep + PowerShell, IAM across Active Directory and Entra ID, and Exchange Server deployment · Closed 1,500+ support tickets
+- ☁️ **AZ-900 certified** · **SC-300 in progress**
+- 🔐 Running a personal **Entra ID lab** for Conditional Access, MFA, RBAC, and PIM
+- 🛠️ Currently exploring **Linux networking, cloud security, and CI/CD**
 
 ## My toolbox
 
