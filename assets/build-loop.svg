@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="105" viewBox="0 0 1000 105" role="img" aria-label="Learn, build, document, repeat">
+<style>.packet{animation:travel 8s linear infinite}.stage{fill:#B9C8DC;animation:light 8s ease-in-out infinite}.b{animation-delay:-6s}.c{animation-delay:-4s}.d{animation-delay:-2s}@keyframes travel{from{transform:translateX(0)}to{transform:translateX(800px)}}@keyframes light{0%,20%,100%{fill:#FFD43B}25%,95%{fill:#8397B0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.packet{display:none}}</style>
+<rect x="1" y="1" width="998" height="103" rx="16" fill="#0B1526" stroke="#263C55"/>
+<path d="M100 36H900" stroke="#263C55" stroke-width="2"/>
+<g fill="#101D30" stroke="#536984" stroke-width="2"><circle cx="100" cy="36" r="7"/><circle cx="366" cy="36" r="7"/><circle cx="633" cy="36" r="7"/><circle cx="900" cy="36" r="7"/></g>
+<rect class="packet" x="96" y="32" width="8" height="8" rx="2" fill="#FFD43B"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="24" text-anchor="middle" font-weight="600">
+ <text class="stage" x="100" y="79">LEARN</text><text class="stage b" x="366" y="79">BUILD</text><text class="stage c" x="633" y="79">DOCUMENT</text><text class="stage d" x="900" y="79">REPEAT</text>
+</g>
+</svg>

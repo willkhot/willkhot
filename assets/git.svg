@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="46" viewBox="0 0 86 46" role="img" aria-label="Git">
+<style>.beam{animation:beam 7s linear infinite;animation-delay:-3.65s}.dot{animation:dot 4s ease-in-out infinite;animation-delay:-3.65s}@keyframes beam{0%{transform:translateX(-80px)}100%{transform:translateX(280px)}}@keyframes dot{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.beam{display:none}}</style>
+<defs><clipPath id="c"><rect x=".5" y=".5" width="85" height="45" rx="9"/></clipPath><linearGradient id="g"><stop stop-color="#FFD43B" stop-opacity="0"/><stop offset=".5" stop-color="#FFD43B"/><stop offset="1" stop-color="#FFD43B" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="85" height="45" rx="9" fill="#101D30" stroke="#30465e"/>
+<circle class="dot" cx="17" cy="23" r="4" fill="#FF8E72"/>
+<text x="30" y="30" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" fill="#E6EDF5">Git</text>
+<g clip-path="url(#c)"><rect class="beam" x="0" y="43" width="80" height="2.5" fill="url(#g)"/></g>
+</svg>
