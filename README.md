@@ -1,7 +1,7 @@
 <!-- Upload this README and the assets folder together to willkhot/willkhot. -->
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.png">
-  <img src="assets/hero.gif" width="1000" alt="Hi, I'm Will Khotsyphom. Cloud, identity, and automation. Securing the cloud, one lab at a time.">
+  <img src="assets/hero.gif" width="1000" alt="Hi, I'm Will Khotsyphom. Cloud, identity, and automation. Learning something new, one lab at a time.">
 </picture>
 
 <p align="center">
