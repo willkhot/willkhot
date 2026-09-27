@@ -1,11 +1,10 @@
 <!-- Upload this README and the assets folder together to willkhot/willkhot. -->
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.png">
-  <img src="assets/hero.gif" width="1000" alt="Hi, I'm Will Khotsyphom. Cloud, identity, and automation. Always learning and building.">
+  <img src="assets/hero.gif" width="1000" alt="Hi, I'm Will Khotsyphom. Cloud, identity, and automation. Securing the cloud, one lab at a time.">
 </picture>
 
 <p align="center">
-  <strong>Cybersecurity student @ UMSL</strong><br>
   <a href="https://willkhot.github.io/"><strong>Portfolio ↗</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/will-khotsyphom"><strong>LinkedIn ↗</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/willkhot/linux-cloud-iam-labs"><strong>Explore my labs ↗</strong></a>
@@ -19,14 +18,6 @@ I like figuring out how systems work, making them more secure, and automating th
 - 💼 **Former IT Intern, Fabick CAT** · Azure automation, IAM, Windows Server/Exchange, and IT support.
 - ☁️ **AZ-900 certified** · **SC-300 in progress**.
 - 🛠️ Currently exploring **Linux networking, cloud security, and CI/CD**.
-
-## Things I've built & explored
-
-| Project | The technical work |
-| --- | --- |
-| [**Azure VM automation**](https://willkhot.github.io/#projects) | Assisted with **Bicep + PowerShell** deployments, governance controls, and private networking. Portfolio write-up. |
-| [**Entra ID IAM lab**](https://willkhot.github.io/#projects) | Personal lab for **Conditional Access, MFA, RBAC, PIM**, and identity lifecycle management. Portfolio write-up. |
-| [**Linux, Cloud & IAM Labs**](https://github.com/willkhot/linux-cloud-iam-labs) | Linux lab write-ups: **SSH hardening, permissions, firewalls, services, and routing**. Cloud and IAM documentation coming next. |
 
 ## My toolbox
 
@@ -45,5 +36,3 @@ I like figuring out how systems work, making them more secure, and automating th
 **Also worked with:** Active Directory · Microsoft 365 · Defender · Wireshark · VS Code
 
 <img src="assets/build-loop.svg" width="1000" alt="Learn, build, document, repeat.">
-
-<p align="center"><em>Always learning and building.</em></p>
