@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/will-khotsyphom"><strong>LinkedIn ↗</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/willkhot/linux-cloud-iam-labs"><strong>Explore my labs ↗</strong></a>
+  <a href="https://github.com/willkhot/Cloud-Labs"><strong>Cloud labs ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/willkhot/IAM-Labs"><strong>IAM labs ↗</strong></a>
 </p>
 
 ## A little about me
@@ -21,6 +22,7 @@ I'm really interested in **cloud security** and **identity and access management
 
 <p>
   <img src="assets/azure.svg" height="38" alt="Azure">
+  <img src="assets/aws.svg" height="38" alt="AWS">
   <img src="assets/entra-id.svg" height="38" alt="Microsoft Entra ID">
   <img src="assets/iam.svg" height="38" alt="IAM">
   <img src="assets/powershell.svg" height="38" alt="PowerShell">
